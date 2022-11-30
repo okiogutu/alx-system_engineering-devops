@@ -1,1 +1,1 @@
-script for the path
+Display contents in Readme.md
